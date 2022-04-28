@@ -1,0 +1,45 @@
+body {
+    background-color: #343434;
+}
+
+.selections {
+    display: flex;
+    justify-content: center;
+}
+
+.selection {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 2rem;
+    transition: 0.5s ease;
+}
+
+.selection:hover {
+    transform: scale(1.2);
+}
+
+.results {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.result-score {
+    margin-left: 0.1rem;
+    font-size: 0.5rem;
+    color: #ec0000;
+}
+
+.result-selection {
+    opacity: 0.2;
+}
+
+.result-selection.winner {
+    opacity: 1;
+    font-size: 1.5rem;
+}
