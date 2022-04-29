@@ -30,7 +30,7 @@ body {
     justify-items: center;
     align-items: center;
     margin-top: 15px;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .result-score {
@@ -45,7 +45,7 @@ body {
 
 .result-selection.winner {
     opacity: 1;
-    font-size: 4.5rem;
+    font-size: 4rem;
 }
 #button-home {
     position: fixed;
