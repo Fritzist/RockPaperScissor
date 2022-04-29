@@ -1,6 +1,6 @@
 body {
     background-color: #343434;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .selections {
@@ -28,13 +28,13 @@ body {
     grid-template-columns: repeat(2, 1fr);
     justify-items: center;
     align-items: center;
-    margin-top: 20px;
-    font-size: 25px;
+    margin-top: 15px;
+    font-size: 40px;
 }
 
 .result-score {
     margin-left: 0.1rem;
-    font-size: 1rem;
+    font-size: 0.7rem;
     color: #ec0000;
 }
 
