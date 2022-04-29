@@ -1,6 +1,7 @@
 body {
     background-color: #343434;
-    font-size: 75px;
+    font-size: 30px;
+    
 }
 
 .selections {
@@ -9,6 +10,7 @@ body {
 }
 
 .selection {
+    margin-top: 30px;
     background: none;
     border: none;
     outline: none;
@@ -28,6 +30,7 @@ body {
     justify-items: center;
     align-items: center;
     margin-top: 15px;
+    font-size: 50px;
 }
 
 .result-score {
