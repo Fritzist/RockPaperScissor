@@ -1,6 +1,10 @@
 body {
     background-color: #343434;
     font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .selections {
