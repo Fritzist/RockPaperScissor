@@ -1,6 +1,6 @@
 body {
     background-color: #343434;
-    font-size: 30px;
+    font-size: 25px;
     
 }
 
@@ -10,7 +10,7 @@ body {
 }
 
 .selection {
-    margin-top: 30px;
+    margin-top: 35px;
     background: none;
     border: none;
     outline: none;
@@ -29,8 +29,8 @@ body {
     grid-template-columns: repeat(2, 1fr);
     justify-items: center;
     align-items: center;
-    margin-top: 15px;
-    font-size: 40px;
+    margin-top: 20px;
+    font-size: 35px;
 }
 
 .result-score {
